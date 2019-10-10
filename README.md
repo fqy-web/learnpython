@@ -1,0 +1,2 @@
+# learnpython
+用于学习python过程中托管练习代码，方便在不同设备上编辑和同步，同时熟悉Github和Git的使用
